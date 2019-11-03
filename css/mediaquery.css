@@ -1,0 +1,642 @@
+@media (max-width: 424.98px){
+	/*header-top-bar start*/
+	.header-top-bar li span {
+		font-size: 12px;
+	}
+	.tcenter{
+		text-align: center !important;
+	}
+	.facebook{
+		display: none;
+	}
+	/*header-top-bar end*/
+	/*header start*/
+	.logo{
+		width: 60%;
+	}
+	.logo img{
+		max-width: 90%;
+	}
+	.menu ul li {
+    	padding: 0px  !important;
+	}
+	.menu ul li a {
+		font-size: 12px;
+    	padding: 0px  !important;
+	}
+	.cust-btn{
+		font-size: 12px;
+		margin-top: 15px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner-content{
+		padding-top: 35px;
+		padding-bottom: 85px;
+	}
+	.banner-content h1{
+		font-size: 18px;
+	}
+	.banner-content p{
+		font-size: 11px;
+	}
+	.b-content-custom-btn{
+		font-size: 9px;
+		padding: 8px 9px;
+	}
+	/*banner end*/
+	/*about us start*/
+	.aboutus{
+		padding:48px 0 16px;
+	}
+	/*1st row  start*/
+	.gallery-head{
+		margin-bottom: 32px;
+	}
+	.gallery-head h2{
+		font-size: 25px;
+	}
+	.gallery-head p{
+		font-size: 16px;
+	}
+	/*1st row  end*/
+	/*2nd row start*/
+	.about-grid{
+		margin-bottom: 32px;
+	}
+	.about-grid h2{
+		margin: 8px 0;
+	}
+	.about-grid p{
+		font-size: 12px;
+		word-spacing: 1px;
+	}
+	/*2nd row end*/
+	/*about us end*/
+
+	/*our approach start*/
+	.ourapproach {
+    	padding: 64px 0 16px;
+	}
+	/*1st row  start*/
+	.approach p{
+		font-size: 13px;
+	}
+	/*1st row  end*/
+	/*2nd row start*/
+	.approch_step1_content {
+		margin-top: 13px;
+    	padding: 32px 20px;
+	}
+	.approch_step1_content h2{
+    	font-size: 12px;
+	}
+	.approch_step1_content p{
+		font-size: 10px;
+    	word-spacing: 2px;
+    	letter-spacing: 0;
+	}
+	.step1{
+		font-size: 40px;
+		top: -38px;
+		left: 36%;
+		line-height: 20px;
+		padding: 4px 8px;
+	}
+	.step1 span{
+		font-size: 14px;
+	}
+	/*2nd row end */
+	/*our approach end*/
+	/*Our Work start*/
+	.ourwork{
+		padding: 64px 0 16px;
+	}
+	/*Our Work end*/
+	/*Our Work start*/
+	.port-grid-text {
+		min-height: 194px;
+    }
+    .port-grid-text img{
+    	margin-top: 27px;
+    }
+    .port-grid-text h3 {
+    	font-size: 14px;
+	}
+    .port-grid-text p{
+    	font-size: 11px;
+	}
+	/*Our Work end*/
+	/*analysis start*/
+	.analysis{
+	    padding: 60px 0 20px;
+	}
+	.common-header{
+		padding-bottom: 15px;
+	}
+	.common-header h2{
+		font-size: 15px;
+	}
+	.common-header p{
+		font-size: 14px;
+	}
+	.arrow{
+		right: 40%;
+	}
+	.cross {
+    	font-size: 24px;
+    	top: -4%;
+    	right: -4%;
+	}
+	
+	/*analysis end*/
+	.newsletter i {
+		margin: 0;
+	}
+	.newletter-header p {
+	    font-size: 9px;
+	}
+	.foot p{
+		font-size: 12px;
+	}
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 425px) and (max-width: 575.98px) {
+	/*header-top-bar start*/
+	.header-top-bar li span {
+		font-size: 13px;
+	}
+	.facebook{
+		display: none;
+	}
+	/*header-top-bar end*/
+	/*header start*/
+	.logo{
+		width: 60%;
+	}
+	.logo img{
+		max-width: 90%;
+	}
+	.menu ul li {
+    	padding: 0px  !important;
+	}
+	.menu ul li a {
+		font-size: 13px;
+    	padding: 0px  !important;
+	}
+	.cust-btn{
+		font-size: 13px;
+		margin-top: 15px;
+	}
+	/*banner start*/
+	.banner-content{
+		padding-top: 61px;
+		padding-bottom: 120px;
+	}
+	.banner-content h1{
+		font-size: 24px;
+	}
+	.banner-content p{
+		font-size: 15px;
+	}
+	.b-content-custom-btn{
+		font-size: 12px;
+		padding: 8px 17px;
+	}
+	/*banner end*/
+	/*about us*/
+	.aboutus{
+		padding:80px 0 48px;
+	}
+	/*1st row  start*/
+	.gallery-head{
+		margin-bottom: 32px;
+	}
+	.gallery-head h2{
+		font-size: 32px;
+	}
+	.gallery-head p{
+		font-size: 16px;
+	}
+	/*1st row  end*/
+	/*about us*/
+
+	/*our approach start*/
+	/*2nd row start*/
+	.approch_step1_content {
+		margin-top: 13px;
+    	padding: 32px 20px;
+	}
+	.approch_step1_content h2{
+    	font-size: 16px;
+	}
+	.approch_step1_content p{
+		font-size: 12.5px;
+    	word-spacing: 4px;
+    	letter-spacing: 0;
+	}
+	.step1{
+		font-size: 48px;
+		top: -38px;
+		left: 41%;
+		line-height: 20px;
+		padding: 4px 8px;
+	}
+	.step1 span{
+		font-size: 16px;
+	}
+	/*2nd row end */
+	/*our approach end*/
+	/*Our Work start*/
+	.port-grid-text {
+		min-height: 194px;
+    }
+    .port-grid-text img{
+    	margin-top: 50px;
+    }
+    .port-grid-text h3 {
+    	font-size: 16px;
+	}
+    .port-grid-text p{
+    	font-size: 12px;
+	}
+	/*Our Work end*/
+	/*analysis start*/
+	.analysis{
+	    padding: 70px 0 30px;
+	}
+	.common-header{
+		padding-bottom: 25px;
+	}
+	.common-header h2{
+		font-size: 18px;
+	}
+	.common-header p{
+		font-size: 16px;
+	}
+	.arrow {
+    	right: 42%;
+	}
+	/*analysis end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header-top-bar start*/
+	.header-top-bar li span {
+		font-size: 14px;
+	}
+	/*header-top-bar end*/
+	/*header start*/
+	.logo{
+		width: 50%;
+	}
+	.logo img{
+		max-width: 65%;
+	}
+	.menu ul li {
+    	padding: 0px  !important;
+	}
+	.menu ul li a {
+		font-size: 14px;
+    	padding: 0px  !important;
+	}
+	.menu ul li a{
+	}
+	.cust-btn{
+		font-size: 14px;
+		margin-top: 15px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner-content{
+		padding-top: 106px;
+		padding-bottom: 160px;
+	}
+	.banner-content h1{
+		font-size: 32px;
+	}
+	.banner-content p{
+		font-size: 20px;
+	}
+	.b-content-custom-btn{
+		font-size: 16px;
+		padding: 10px 20px;
+	}
+	/*banner end*/
+
+	/*about us start*/
+	.aboutus{
+		padding-top: 80px;
+	}
+	/*1st row  start*/
+	.gallery-head {
+    	margin-bottom: 35px;
+	}
+	.gallery-head h2{
+		font-size: 32px;
+	}
+	.gallery-head p{
+		margin-bottom: 0;
+	}
+	/*1st row  end*/
+	/*about us end*/
+
+	/*our approach start*/
+	.ourapproach{
+		padding-top: 80px;
+	}
+	/*2nd row start*/
+	.approch_step1_content {
+		margin-top: 7px;
+    	padding: 0px 3px;
+	}
+	.approch_step1_content h2{
+    	font-size: 16px;
+	}
+	.approch_step1_content p{
+		font-size: 11px;
+    	word-spacing: 2px;
+    	letter-spacing: 0px;
+	}
+	.step1{
+		font-size: 30px;
+		top: 20px;
+		left: 120px;
+		line-height: 20px;
+		padding: 7px 10px;
+	}
+	.step1 span{
+		font-size: 14px;
+	}
+	.step2{
+		left: 65%;
+    	top: 13%;
+	}
+	/*2nd row end */
+	/*our approach end*/
+	/*Our Work start*/
+	.ourWork{
+		padding-top: 80px;
+	}
+	/*2nd row end*/
+	.port-grid-text {
+		min-height: 119px;
+    }
+    .port-grid-text img{
+    	margin-top: 16px;
+    }
+    .port-grid-text h3 {
+    	font-size: 16px;
+    }
+    .port-grid-text p{
+    	font-size: 11px;
+	}
+	/*2nd row end*/
+	/*Our Work end*/
+	/*analysis start*/
+	.analysis{
+	    padding: 80px 0 40px;
+	}
+	.common-header{
+		padding-bottom: 25px;
+	}
+	.common-header h2{
+		font-size: 24px;
+	}
+	.arrow {
+    	right: 44%;
+	}
+	/*analysis end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.logo{
+		width: 30%;
+	}
+	.logo img{
+		max-width: 80%;
+	}
+	.menu ul li {
+    	padding: 0px  !important;
+	}
+	.menu ul li a {
+    	padding: 0px  !important;
+	}
+	.cust-btn{
+		font-size: 15px;
+		margin-top: 15px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner-content{
+		padding-top: 105px;
+		padding-bottom: 165px;
+	}
+	.banner-content h1{
+		font-size: 36px;
+	}
+	.banner-content p{
+		font-size: 21px;
+	}
+	.b-content-custom-btn{
+		font-size: 17px;
+		padding: 13px 20px;
+	}
+	/*banner end*/
+	/*about us start*/
+	.aboutus{
+		padding-top: 80px;
+	}
+	/*2nd row start*/
+	.gallery-head p {
+		margin-bottom: 0;
+	}
+	.about-grid h2{
+		font-size:19px;
+	}
+	.about-grid p{
+		font-size: 11px;
+		padding: 0 0;
+		word-spacing: 0px;
+	}
+	/*2nd row end*/
+	/*about us end*/
+
+	/*our approach start*/
+	.ourapproach{
+		padding-top: 80px;
+	}
+	/*2nd row start*/
+	.approch_step1_content {
+		margin-top: 13px;
+    	padding: 10px 28px;
+	}
+	.approch_step1_content h2{
+    	font-size: 16px;
+	}
+	.approch_step1_content p{
+		font-size: 12.5px;
+    	word-spacing: 4px;
+    	letter-spacing: 0;
+	}
+	.step1{
+		font-size: 48px;
+		top: 30px;
+		left: 165px;
+		line-height: 25px;
+		padding: 15px 25px;
+	}
+	.step1 span{
+		font-size: 16px;
+	}
+	.step2{
+		left: 63%;
+    	top: 13%;
+	}
+	/*2nd row end */
+	/*our approach end*/
+	/*Our Work start*/
+	.ourwork{
+		padding-top: 80px;
+	}
+	/*2nd row start*/
+	.port-grid-text {
+		min-height: 163px;
+    }
+    .port-grid-text img{
+    	margin-top: 30px;
+    }
+    .port-grid-text h3 {
+    	font-size: 19px;
+    }
+	/*2nd row end*/
+	/*Our Work end*/
+	/*analysis start*/
+	.analysis{
+	    padding: 90px 0 50px;
+	}
+	.common-header{
+		padding-bottom: 35px;
+	}
+	.common-header h2{
+		font-size: 24px;
+	}
+	.arrow {
+    	right: 43%;
+	}
+	.reverse-collapse {
+    	top: -23%;
+    	right: 42.1%;
+	}
+	/*analysis end*/
+	/*newsletter start*/
+	.newsletter {
+	    padding: 90px 0 50px;
+	}
+	.newletter-header h1{
+		font-size: 26px;
+	}
+	.newsletter i {
+		margin: 0;
+	}
+	/*newsletter end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header start*/
+	.logo{
+		width: 20%;
+	}
+	.logo img{
+		max-width: 100%;
+	}
+	.menu ul li {
+    	padding: 0 5px;
+	}
+	/*header end*/
+	/*about us start*/
+	/*2nd row start*/
+	.about-grid h2{
+		font-size:19px;
+	}
+	.about-grid p{
+		font-size: 12px;
+		word-spacing: 1px;
+	}
+	/*2nd row end*/
+	/*about us end*/
+
+	/*our approach start*/
+	/*2nd row start*/
+	.approch_step1_content {
+    	padding: 50px 28px;
+	}
+	.approch_step1_content p{
+		word-spacing: 2px;
+    	letter-spacing: 0;
+	}
+	.step1{
+		font-size: 58px;
+		top: 48px;
+		left: 235px;
+		line-height: 25px;
+		padding: 13px 28px;
+	}
+	.step1 span{
+		font-size: 18px;
+	}
+	.step2{
+		left: 63.5%;
+    	top: 24%;
+	}
+	/*2nd row end */
+	/*our approach end*/
+
+	/*Our Work start*/
+	/*2nd row start*/
+	.port-grid-text {
+		min-height: 221px;
+    }
+    .port-grid-text img{
+    	margin-top: 55px;
+    }
+	/*2nd row end*/
+	/*Our Work end*/
+
+	/*analysis start*/
+	.analysis{
+	    padding: 100px 0 60px;
+	}
+	.common-header h2{
+		font-size: 33px;
+	}
+	.arrow {
+    	right: 45%;
+	}
+	.reverse-collapse {
+    	top: -24%;
+    	right: 44.1%;
+	}
+	/*analysis end*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	/*header start*/
+	.logo img{
+		max-width: 90%;
+	}
+	/*header end*/
+	/*our approach start*/
+	/*2nd row start*/
+	.step2{
+		left: 64%;
+	}
+	/*2nd row end */
+	/*our approach end*/
+}
